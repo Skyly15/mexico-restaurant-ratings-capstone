@@ -1,7 +1,6 @@
 # Mexico Restaurant Ratings Analysis - Capstone Project
 
-[![Tableau Public Dashboard](https://img.shields.io/badge/Tableau_Public-View%20Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/your.username/viz/MexicoRestaurantRatingsCapstoneDashboard/Dashboard1)  
-*Replace the link above with your actual published Tableau Public dashboard URL after publishing.*
+[![Tableau Public Dashboard](https://public.tableau.com/views/MexicoRestaurantRatingsCapstoneDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 **Author:** Enoh Umukoro  
 **Date:** December 15, 2025  
@@ -102,8 +101,8 @@ The analysis highlights:
 
 ## View the Interactive Dashboard
 
-[Tableau Public Dashboard Link](https://public.tableau.com/app/profile/your.username/viz/MexicoRestaurantRatingsCapstoneDashboard/Dashboard1)  
-*(Update with your actual link after publishing)*
+[Tableau Public Dashboard Link](https://public.tableau.com/views/MexicoRestaurantRatingsCapstoneDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
 
 ## Acknowledgments
 
