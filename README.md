@@ -1,6 +1,6 @@
 # Mexico Restaurant Ratings Analysis - Capstone Project
 
-![Dashboard Preview](Mexixan%20Restuarant%20Rating%20Analysis.png)
+![Dashboard Preview](mexican-restaurant-ratings-dashboard.png)
 
 **Author:** Enoh Umukoro  
 **Date:** December 15, 2025  
