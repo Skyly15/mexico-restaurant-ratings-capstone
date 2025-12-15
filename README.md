@@ -110,5 +110,3 @@ The analysis highlights:
 - Dataset: Restaurant Rating Dataset (Mexico 2012 survey)
 - Tool: Tableau Public (web authoring)
 - Guidance: DigitaleyDive Bootcamp
-
-**Congratulations on completing your capstone project!** 🎉
