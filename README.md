@@ -1,8 +1,5 @@
 # Mexico Restaurant Ratings Analysis - Capstone Project
 
-  
- **Dashboard Screenshot:**  
-![Dashboard Screenshot](Mexican%20Restuarant%20Rating%20Analysis%20Dashboard.png)
 
 **Author:** Enoh Umukoro  
 **Date:** December 15, 2025  
@@ -103,8 +100,11 @@ The analysis highlights:
 
 ## View the Interactive Dashboard
 
-[Tableau Public Dashboard Link](https://public.tableau.com/views/MexicoRestaurantRatingsCapstoneDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+[Tableau Public Dashboard Link](https://public.tableau.com/views/MexicoRestaurantRatingsCapstoneDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
+
+ **Dashboard Screenshot:**  
+![Dashboard Screenshot](Mexican%20Restuarant%20Rating%20Analysis%20Dashboard.png)
 
 ## Acknowledgments
 
